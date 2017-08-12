@@ -1,6 +1,8 @@
 ## Alessandro Noiato
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am an ambitous and curious Full Stack Junior Developer, looking for a role to expand my programming knowledge while gaining exposure to other aspects of Web Technologies and Computer Science.
+
+After graduating in Mathematics from the University of Padua, I spent some time working in the consulting industry as an ERP Functional Analyst. 
 
 ## Skills
 
@@ -23,7 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (June '17 to August '17)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +36,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Padua (2004 to 2009)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- B.Sc. Mathematics
+- 94/110
+- Graduated with a Bachelor thesis on Differential Galois Theory
+
+#### University of Padua (2009 to 2014)
+
+- M.Sc. Mathematics 
+- 98/110
+- Graduated with a Master thesis on Rademacher's Theorem in Metric Measure Spaces
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Deloitte** (May '15 to Oct '15)    
+*Analyst* 
