@@ -12,18 +12,17 @@ A degree in Mathematics both requires and sharpens analytical thinking at the hi
 
 #### Excellent communicator
 
-The aforementioned project entailed working closely with key employees of the client in order to understand the company's processes and determine how to customize the software we sold to better suit their needs. I would then work closely with the developers - both internal and internationally outsourced - to ensure they were building the right product and help them test it. This cycle required coordinating what were in effect intrinsically different, completely separated groups of people and it incessantly tested my communication skills.
+The aforementioned project entailed working closely with key employees of the client in order to understand the company's processes and determine how to customize the software we sold to better suit their needs. I would then work closely with the developers - both internal and internationally outsourced - to ensure they were building the right product and help them test it. This cycle required coordinating what were in effect intrinsically different, completely separated groups of people and it incessantly tested my communication and collaboration skills.
 
 #### Fast, independent learner
 
-During my time at Deloitte I had to master very quickly the structure of a well known, complex ERP software and acquaint myself with its proprietary development environment.
+During my time at Deloitte I had to master very quickly the structure of a well known, complex ERP software (Microsoft Dynamics AX) and acquaint myself with its proprietary development environment - MorphX. During my time at Makers I learned several new technologies in a short time span. As a weekend challenge, I wrote [a basic C app to send HTTP requests](https://github.com/terminalobject/HTTP-Request-in-C). This required getting acquainted with the basics of Berkeley Sockets and the C language over a couple of days - a very interesting learning experience, as C is very different from the higher level languages we were taught in the course. 
 
 ## Education
 
 #### Makers Academy (June '17 to August '17)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
 - OOP, TDD, MVC, DDD
