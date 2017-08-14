@@ -16,11 +16,11 @@ The aforementioned project entailed working closely with key employees of the cl
 
 #### Fast, independent learner
 
-During my time at Deloitte I had to master very quickly the structure of a well known, complex ERP software (Microsoft Dynamics AX) and acquaint myself with its proprietary development environment - MorphX. During my time at Makers I learned several new technologies in a short time span. As a weekend challenge, I wrote [a basic C app to send HTTP requests](https://github.com/terminalobject/HTTP-Request-in-C). This required getting acquainted with the basics of Berkeley Sockets and the C language over a couple of days - a very interesting learning experience, as C is very different from the higher level languages we were taught in the course. 
+During my time at Deloitte I had to master very quickly the structure of a well known, complex ERP software (Microsoft Dynamics AX) and acquaint myself with its proprietary development environment - MorphX. During my time at Makers I learned several new technologies in a short time span. As a weekend challenge, I wrote [a basic C app to send HTTP requests](https://github.com/terminalobject/HTTP-Request-in-C). This required getting acquainted with the basics of Berkeley Sockets and the C language over a couple of days - a very interesting learning experience, as C is very different from the higher level languages we were taught in the course. As a final project for graduation from Makers, we developed a Machine LEarning app for headling filtering. 
 
 #### Great Collaborator
 
-Makers Academy focuses also on improving the collaboration skills of its graduates by incorporating pair programming and group projects into its daily routines
+Makers Academy focuses also on improving the collaboration skills of its graduates by incorporating pair programming and group projects into its daily routines. As part of a team of 5, we developed a [Pong game in vanilla JavaScript](https://github.com/tbscanlon/ping-js) in one week. 
 
 ## Education
 
