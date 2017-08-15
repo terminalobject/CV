@@ -52,3 +52,8 @@ Makers Academy focuses also on improving the collaboration skills of its graduat
 
 **Deloitte** (May '15 to Oct '15)    
 *Analyst* 
+
+## Hobbies and interests
+- **Tennis** Since I was 18.
+- **Texas Hold 'em** Started playing live ring games when I was 21. 
+- **Guitar** I took up the guitar when I was 14, after quitting piano. 
