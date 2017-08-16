@@ -4,6 +4,7 @@ I am an ambitious and curious Full Stack Junior Developer, looking for a role to
 
 After graduating in Mathematics from the University of Padua, I spent some time working in the consulting industry as an ERP Functional Analyst. 
 
+[Skills](#Skills)|
 ## Skills
 
 #### Analytical thinker
