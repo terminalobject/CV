@@ -58,7 +58,7 @@ Makers Academy focuses also on improving the collaboration skills of its graduat
 I tutored more than 20 high school students and Economics/Engineering freshmen over several years.
 
 ## Hobbies and interests
-- I've played **tennis** for more than 10 years, competitively for 2. 
+- I've played **tennis** for more than 10 years. For two of those years I played competitively.  
 - Started playing **Texas Hold 'em** ring games when I was 21. 
 - I took up the **guitar** when I was 14, after quitting piano.  
 
