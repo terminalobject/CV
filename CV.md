@@ -4,7 +4,7 @@ I am an ambitious and curious Full Stack Junior Developer, looking for a role to
 
 After graduating in Mathematics from the University of Padua, I spent some time working in the consulting industry as an ERP Functional Analyst. 
 
-[Skills](#Skills)|
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and interests](#hobbies-and-interests)
 ## Skills
 
 #### Analytical thinker
@@ -53,6 +53,9 @@ Makers Academy focuses also on improving the collaboration skills of its graduat
 
 **Deloitte** (May '15 to Oct '15)    
 *Analyst* 
+
+**Tutoring** 
+I tutored more than 20 high school students and Economics/Engineering freshmen over several years.
 
 ## Hobbies and interests
 - **Tennis** Since I was 18.
