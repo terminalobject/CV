@@ -54,10 +54,13 @@ Makers Academy focuses also on improving the collaboration skills of its graduat
 **Deloitte** (May '15 to Oct '15)    
 *Analyst* 
 
-**Tutoring** 
+**Tutoring**  
 I tutored more than 20 high school students and Economics/Engineering freshmen over several years.
 
 ## Hobbies and interests
-- **Tennis** Since I was 18.
-- **Texas Hold 'em** Started playing live ring games when I was 21. 
-- **Guitar** I took up the guitar when I was 14, after quitting piano. 
+- **Tennis** 
+Since I was 18.
+- **Texas Hold 'em** 
+Started playing ring games when I was 21. 
+- **Guitar** 
+I took up the guitar when I was 14, after quitting piano. 
