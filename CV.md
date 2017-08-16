@@ -58,9 +58,9 @@ Makers Academy focuses also on improving the collaboration skills of its graduat
 I tutored more than 20 high school students and Economics/Engineering freshmen over several years.
 
 ## Hobbies and interests
-- **Tennis** 
+- **Tennis**  
 Since I was 18.
-- **Texas Hold 'em** 
+- **Texas Hold 'em**  
 Started playing ring games when I was 21. 
-- **Guitar** 
+- **Guitar**  
 I took up the guitar when I was 14, after quitting piano. 
