@@ -1,6 +1,6 @@
 ## Alessandro Noiato
 
-I am an ambitious and curious Full Stack Junior Developer, looking for a role to expand my programming knowledge while gaining exposure to other aspects of Web Technologies and Computer Science.
+I am an ambitious and curious Full Stack Junior Developer, looking for a role to expand my programming knowledge while gaining exposure to other aspects of Web Technologies and Computer Science. 
 
 After graduating in Mathematics from the University of Padua, I spent some time working in the consulting industry as an ERP Functional Analyst - a consultant in charge of providing technological solution to business problems. 
 
