@@ -17,7 +17,7 @@ The aforementioned project entailed working closely with key employees of the cl
 
 #### Fast, independent learner
 
-During my time at Deloitte I had to master very quickly the structure of a well known, complex ERP software (Microsoft Dynamics AX) and acquaint myself with its proprietary development environment - MorphX. During my time at Makers I learned several new technologies in a short time span. As a weekend challenge, I wrote [a basic C app to send HTTP requests](https://github.com/terminalobject/HTTP-Request-in-C). This required getting acquainted with the basics of Berkeley Sockets and the C language over a couple of days - a very interesting learning experience, as C is very different from the higher level languages we were taught in the course. As a final project for graduation from Makers, we developed a Machine LEarning app for headling filtering. 
+During my time at Deloitte I had to master very quickly the structure of a well known, complex ERP software (Microsoft Dynamics AX) and acquaint myself with its proprietary development environment - MorphX. During my time at Makers I learned several new technologies in a short time span. As a weekend challenge, I wrote [a basic C app to send HTTP requests](https://github.com/terminalobject/HTTP-Request-in-C). This required getting acquainted with the basics of Berkeley Sockets and the C language over a couple of days - a very interesting learning experience, as C is very different from the higher level languages we were taught in the course. As a final project for graduation from Makers, we developed a Machine Learning app for headline filtering. 
 
 #### Great Collaborator
 
@@ -35,17 +35,17 @@ Makers Academy focuses also on improving the collaboration skills of its graduat
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### University of Padua (2004 to 2009)
-
-- B.Sc. Mathematics
-- 94/110
-- Graduated with a Bachelor thesis on Differential Galois Theory
-
 #### University of Padua (2009 to 2014)
 
 - M.Sc. Mathematics 
 - 98/110
 - Graduated with a Master thesis on Rademacher's Theorem in Metric Measure Spaces
+
+#### University of Padua (2004 to 2009)
+
+- B.Sc. Mathematics
+- 94/110
+- Graduated with a Bachelor thesis on Differential Galois Theory
 
 #### Any other qualifications
 
