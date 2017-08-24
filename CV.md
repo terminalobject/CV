@@ -4,7 +4,7 @@ I am an ambitious and curious Full Stack Junior Developer, looking for a role to
 
 After graduating in Mathematics from the University of Padua, I spent some time working in the consulting industry as an ERP Functional Analyst - a consultant in charge of providing technological solution to business problems. 
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and interests](#hobbies-and-interests)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and interests](#hobbies-and-interests)
 ## Skills
 
 #### Analytical thinker
@@ -17,11 +17,19 @@ The aforementioned project entailed working closely with key employees of the cl
 
 #### Fast, independent learner
 
-During my time at Deloitte I had to master very quickly the structure of a well known, complex ERP software (Microsoft Dynamics AX) and acquaint myself with its proprietary development environment - MorphX. During my time at Makers I learned several new technologies in a short time span. As a weekend challenge, I wrote [a basic C app to send HTTP requests](https://github.com/terminalobject/HTTP-Request-in-C). This required getting acquainted with the basics of Berkeley Sockets and the C language over a couple of days - a very interesting learning experience, as C is very different from the higher level languages we were taught in the course. As a final project for graduation from Makers, we developed a Machine Learning app for headline filtering. It uses a Perceptron algorithm to find a decision boundary and was written entirely from scratch, in Ruby, without using libraries.
+During my time at Deloitte I had to master very quickly the structure of a well known, complex ERP software (Microsoft Dynamics AX) and acquaint myself with its proprietary development environment - MorphX. During my time at Makers I learned several new technologies in a short time span. As a weekend challenge, I wrote [a basic C app to send HTTP requests](https://github.com/terminalobject/HTTP-Request-in-C). This required getting acquainted with the basics of Berkeley Sockets and the C language over a couple of days. As a final project for graduation from Makers, we developed a Machine Learning app for headline filtering. 
 
 #### Great Collaborator
 
-Makers Academy focuses also on improving the collaboration skills of its graduates by incorporating pair programming and group projects into its daily routines. As part of a team of 5, we developed a [Pong game in vanilla JavaScript](https://github.com/tbscanlon/ping-js) in one week. My responsibility for this project was developing the code to handle collisions between the objects involved in the game. 
+Makers Academy focuses also on improving the collaboration skills of its graduates by incorporating pair programming and group projects into its daily routines. As part of a team of 5, I developed a [Pong game in vanilla JavaScript](https://github.com/tbscanlon/ping-js) in one week. 
+
+## Projects
+
+Title   | Timeframe  | Description
+-- | -- | --
+[Pong game](https://github.com/tbscanlon/ping-js) | 1 Week | A pong game app written in pure javascript using no frameworks or testing libraries. My main responsibility for this project was developing the code to handle collisions between the objects involved in the game.
+[HTTP requests](https://github.com/terminalobject/HTTP-Request-in-C) | 2 days | A simple app that sends HTTP requests. Learning the basics of a language like C has great value in the context of this bootcamp because it is radically different from the ones usually taught at Makers and it teaches a lot about the relationship between code and hardware. Similarly, learning a few notions about Berkeley sockets allowed me to take a peek at the complexity behind "basic" browser features.
+[Perceptron](https://github.com/terminalobject/perceptron) | 2 weeks | A headling filtering app written entirely in Ruby without using any library. Tested using Rspec. This app makes use of a Perceptron algorithm to find a decision boundary between "good" and "bad" headlines (conveniently translated into vectors that track some of their features). The perceptron algorithm was then built into a [gem](https://github.com/terminalobject/perceptron-gem), available to the Ruby community. 
 
 ## Education
 
