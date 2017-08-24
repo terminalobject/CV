@@ -31,6 +31,8 @@ Title   | Timeframe  | Description
 [HTTP requests](https://github.com/terminalobject/HTTP-Request-in-C) | 2 days | A simple app that sends HTTP requests. Learning the basics of a language like C has great value in the context of this bootcamp because it is radically different from the ones usually taught at Makers and sheds some light on the relationship between code and hardware. Similarly, learning a few notions about Berkeley sockets allowed me to take a peek at the complexity behind "basic" browser features.
 [Perceptron](https://github.com/terminalobject/perceptron) | 2 weeks | A headling filtering app written entirely in Ruby without using any library. Tested using Rspec. This app makes use of a Perceptron algorithm to find a decision boundary between "good" and "bad" headlines (conveniently translated into vectors that track some of their features). The perceptron algorithm was then built into a [gem](https://rubygems.org/gems/perceptron), available to the Ruby community. 
 
+For a complete list of my projects, see my [Github](https://github.com/terminalobject/).
+
 ## Education
 
 #### Makers Academy (June '17 to August '17)
