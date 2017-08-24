@@ -59,7 +59,7 @@ For a complete list of my projects, see my [Github](https://github.com/terminalo
 
 ## Experience
 
-**Deloitte** (May '15 to Oct '15)    
+**Deloitte** (Apr '15 to Oct '15)    
 *Analyst* 
 
 **Tutoring**  
