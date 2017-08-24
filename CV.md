@@ -28,19 +28,17 @@ Makers Academy focuses also on improving the collaboration skills of its graduat
 Title   | Timeframe  | Description
 -- | -- | --
 [Pong game](https://github.com/tbscanlon/ping-js) | 1 Week | A pong game app written in pure javascript using no frameworks or testing libraries. My main responsibility for this project was developing the code to handle collisions between the objects involved in the game.
-[HTTP requests](https://github.com/terminalobject/HTTP-Request-in-C) | 2 days | A simple app that sends HTTP requests. Learning the basics of a language like C has great value in the context of this bootcamp because it is radically different from the ones usually taught at Makers and it teaches a lot about the relationship between code and hardware. Similarly, learning a few notions about Berkeley sockets allowed me to take a peek at the complexity behind "basic" browser features.
-[Perceptron](https://github.com/terminalobject/perceptron) | 2 weeks | A headling filtering app written entirely in Ruby without using any library. Tested using Rspec. This app makes use of a Perceptron algorithm to find a decision boundary between "good" and "bad" headlines (conveniently translated into vectors that track some of their features). The perceptron algorithm was then built into a [gem](https://github.com/terminalobject/perceptron-gem), available to the Ruby community. 
+[HTTP requests](https://github.com/terminalobject/HTTP-Request-in-C) | 2 days | A simple app that sends HTTP requests. Learning the basics of a language like C has great value in the context of this bootcamp because it is radically different from the ones usually taught at Makers and sheds some light on the relationship between code and hardware. Similarly, learning a few notions about Berkeley sockets allowed me to take a peek at the complexity behind "basic" browser features.
+[Perceptron](https://github.com/terminalobject/perceptron) | 2 weeks | A headling filtering app written entirely in Ruby without using any library. Tested using Rspec. This app makes use of a Perceptron algorithm to find a decision boundary between "good" and "bad" headlines (conveniently translated into vectors that track some of their features). The perceptron algorithm was then built into a [gem](https://rubygems.org/gems/perceptron), available to the Ruby community. 
 
 ## Education
 
 #### Makers Academy (June '17 to August '17)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-
-
+- Curious and passionate about code.
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, JavaScript
 - RSpec, Jasmine
 
 #### University of Padua (2009 to 2014)
