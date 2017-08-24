@@ -13,7 +13,7 @@ A degree in Mathematics both requires and sharpens analytical thinking at the hi
 
 #### Excellent communicator
 
-The aforementioned project entailed working closely with key employees of the client in order to understand the company's processes and determine how to customize the software we sold to better suit their needs. I would then work closely with the developers - both internal and internationally outsourced - to ensure they were building the right product and help them test it and debug it. This cycle required coordinating what were in effect intrinsically different, completely separated groups of people and it incessantly tested my communication and collaboration skills.
+The aforementioned project entailed working closely with key employees of the client in order to understand the company's processes and determine how to customize the software we sold to better suit their needs. I would then work closely with the developers - both internal and internationally outsourced - to ensure they were building the right product and help them test it and debug it. These development cycles entailed coordinating what were in effect intrinsically different, completely separated groups of people and it incessantly tested my communication and collaboration skills.
 
 #### Fast, independent learner
 
