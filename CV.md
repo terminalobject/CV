@@ -35,6 +35,12 @@ For a complete list of my projects, see my [Github](https://github.com/terminalo
 
 ## Education
 
+#### MThree Consulting (February '18 - current)
+
+MThree is a consultancy that trains and deploys graduates to investment banks.
+
+- Training in Java, JUnit, SQL, Unix and some notions of Finance.
+
 #### Makers Academy (June '17 to August '17)
 
 - Curious and passionate about code.
