@@ -62,8 +62,7 @@ For a complete list of my projects, see my [Github](https://github.com/terminalo
 **MThree Consulting** (February '18 - current)
 
 MThree is a consultancy that trains and deploys graduates to investment banks.
-
-- Training in Java, JUnit, SQL, Unix and some notions of Finance.
+I underwent training in Java, JUnit, SQL, Unix and some notions of Finance.
 
 **Deloitte** (Apr '15 to Oct '15)    
 *Analyst* 
